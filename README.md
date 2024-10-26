@@ -1,5 +1,12 @@
 # Golang bindings for the Telegram Bot API
 
+## <b>This project is forked from [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api.git)</b>
+
+
+
+
+
+
 [![Go Reference](https://pkg.go.dev/badge/github.com/kaadon/telegram-bot-api/v6.svg)](https://pkg.go.dev/github.com/kaadon/telegram-bot-api/v6)
 [![Test](https://github.com/go-telegram-bot-api/telegram-bot-api/actions/workflows/test.yml/badge.svg)](https://github.com/go-telegram-bot-api/telegram-bot-api/actions/workflows/test.yml)
 
